@@ -1,0 +1,28 @@
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Test\Desktop\NetCoreBackend-ab582eecc7b3ab61b38c3dda6328ddef2b200550\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Test\Desktop\backend tasarim\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Test\Desktop\backend tasarim\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Test\Desktop\backend tasarim\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Test\Desktop\backend tasarim\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\backend tasarim\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Test\Desktop\backend tasarim\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Test\Desktop\backend tasarim\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Test\Desktop\backend tasarim\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Test\Desktop\backend tasarim\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Test\Desktop\backend tasarim\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Test\Desktop\backend tasarim\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Test\Desktop\backend tasarim\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Test\Desktop\backend tasarim\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Test\Desktop\backend tasarim\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
